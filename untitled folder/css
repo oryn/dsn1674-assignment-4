@@ -1,0 +1,39 @@
+html {
+  line-height: 1.5;
+  background-color: #dbd6cf;
+}
+nav ol{
+  list-style-type:none;
+}
+h1, h2 {
+  color: #79756f;
+  font-weight: normal;
+  line-height: 1;
+  /*
+  text-shadow: 2px -5px 10px;
+  */
+  font-family: 'Bevan', cursive;
+}
+p {
+  font-style:normal; italic, normal,*/
+  tex-decoration: line-through; /*underline, none, line-through */
+  text-align: left; /*left, center, right, justify */
+  font-family: Arial, sans-serif;
+}
+ol{
+  list-style-type:lower-roman;
+}
+blockquote span{font-size: 2rem;}
+
+dt {font-weight:bold;}
+html {
+  font-family: arial, sans-serif;
+}
+a:hover{color:red;}
+ol span{list-style-type:circle;}
+b{
+  color:#79756f;
+  font-weight:normal;
+}
+figcaption {font-size: .75rem}
+a {color: #763837;}
